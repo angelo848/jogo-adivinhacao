@@ -1,2 +1,0 @@
-# jogoAdivinhacao
-Created with CodeSandbox
