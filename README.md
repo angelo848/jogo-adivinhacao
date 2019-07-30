@@ -1,4 +1,4 @@
-Jogo de adivinhação criado com React.
+<h1>Jogo de adivinhação criado com React.</h1>
 
 Como jogar:
 1º - Escolha um número (Não conte para ninguém, é segredo!)
